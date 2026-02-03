@@ -1,19 +1,5 @@
-# Welcome to MkDocs
+# Welcome to the Bright Eye Intelligence API Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The BEI API, and its documentation, is currently under construction. You may find information that is unclear, difficult to understand or straight up wrong. Please contact us on <a href="mailto:hello@brighteyeintel.co.uk">hello@brighteyeintel.co.uk</a> if you have any questions.
 
-## Commands
-
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Content
+This documentation is built using MkDocs, with the Material theme.

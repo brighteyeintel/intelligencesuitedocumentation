@@ -2,3 +2,6 @@ site_name: BEI API Documentation
 site_url: https://docs.brighteyeintel.co.uk
 theme:
   name: material
+nav:
+  - Home: index.md
+  - Getting your API key: apikeys.md
