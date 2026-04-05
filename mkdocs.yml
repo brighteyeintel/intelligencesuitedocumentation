@@ -9,3 +9,16 @@ nav:
   - Overview: overview.md
   - Getting your API key: apikeys.md
   - Authentication: authentication.md
+  - REST API:
+    - Company: api/company.md
+    - Crypto: api/crypto.md
+    - Email: api/email.md
+    - IP: api/ip.md
+    - Macaddress: api/macaddress.md
+    - Officers: api/officers.md
+    - Phone: api/phone.md
+    - URL: api/url.md
+    - Username: api/username.md
+    - VehicleReg: api/vehiclereg.md
+    - Vinted: api/vinted.md
+    - Vision: api/vision.md
