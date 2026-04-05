@@ -33,6 +33,9 @@ Each API request deducts exactly 1 credit from your user account. Balance must b
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Vision Response Types](../types/vision.md) documentation and [Shared Types](../types/shared.md).
+
+
 The endpoint returns HTTP Status `200` alongside a full TrinityResult wrapping a VisionSearchResults structure containing the ML findings payload.
 
 ```json

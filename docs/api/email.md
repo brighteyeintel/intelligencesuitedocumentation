@@ -37,6 +37,9 @@ A balance check is performed upfront. The tool deducts 1 credit per valid unique
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Email Response Types](../types/email.md) documentation and [Shared Types](../types/shared.md).
+
+
 The endpoint normally returns HTTP Status `200` with a generic TrinityResult wrapper containing the EmailSearchResults object.
 
 ```json

@@ -34,6 +34,9 @@ A `402 Insufficient credits` flag is immediately thrown assuming credit threshol
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Vehicle Registration Response Types](../types/vehiclereg.md) documentation and [Shared Types](../types/shared.md).
+
+
 Resolves universally to a standardized wrapping layer matching HTTP Status `200` including payload metadata bounding `VehicleRegSearchResults`.
 
 ```json

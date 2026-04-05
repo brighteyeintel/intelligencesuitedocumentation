@@ -35,7 +35,9 @@ A balance check is performed upfront securely checking the required amount. Wait
 
 ## Response Structure
 
-The endpoint normally returns HTTP Status `200` with a standard TrinityResult wrapping an IPSearchResults type object.
+The endpoint normally returns HTTP Status `200`. The response is a standard [`TrinityResult`](../types/shared.md#trinityresult) wrapping an [`IPSearchResults`](../types/ip.md#ipsearchresults) object.
+
+For a complete reference of the available serialized types, see the [IP Response Types](../types/ip.md).
 
 ```json
 {

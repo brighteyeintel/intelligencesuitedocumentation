@@ -35,6 +35,9 @@ Generally consumes credits relative to the size parameters queried in the `query
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Company Response Types](../types/company.md) documentation and [Shared Types](../types/shared.md).
+
+
 Responds effectively with HTTP `200` holding a TrinityResult context wrapping CompanySearchResults arrays.
 
 ```json

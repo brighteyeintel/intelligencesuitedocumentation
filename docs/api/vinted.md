@@ -34,6 +34,9 @@ Credit costs inherently deduct values explicitly mapped against lengths natively
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Vinted Response Types](../types/vinted.md) documentation and [Shared Types](../types/shared.md).
+
+
 Execution properly validates mapped inputs generating a typical TrinityResult bounding arrays referencing native VintedSearchResults objects correctly. Target `200` output standard codes correctly.
 
 ```json

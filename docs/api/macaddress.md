@@ -34,6 +34,9 @@ A sequential cost of 1 credit is typically deducted per valid MAC Address pushed
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Mac Address Response Types](../types/bssid.md) documentation and [Shared Types](../types/shared.md).
+
+
 The endpoint signals an HTTP `200` completion binding results strictly within the TrinityResult architectural standard payload format.
 
 ```json

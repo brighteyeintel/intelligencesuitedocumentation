@@ -17,3 +17,6 @@ This documentation is built using MkDocs, with the Material theme.
 - [VehicleReg API](api/vehiclereg.md)
 - [Vinted API](api/vinted.md)
 - [Vision API](api/vision.md)
+
+## Response Types
+For a comprehensive breakdown of all data structures returned by the API, please refer to the [Shared Response Types](types/shared.md) and the tool-specific response schemas available in the navigation sidebar.

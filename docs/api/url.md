@@ -37,6 +37,9 @@ You must provide a valid API key, tied to a valid registered user profile. Authe
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [URL Response Types](../types/url.md) documentation and [Shared Types](../types/shared.md).
+
+
 Replies with HTTP Status `200` alongside a full TrinityResult housing URLSearchResults arrays respectively.
 
 ```json

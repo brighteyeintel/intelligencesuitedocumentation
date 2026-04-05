@@ -22,3 +22,17 @@ nav:
     - VehicleReg: api/vehiclereg.md
     - Vinted: api/vinted.md
     - Vision: api/vision.md
+  - Response Types:
+    - Shared: types/shared.md
+    - Company: types/company.md
+    - Crypto: types/crypto.md
+    - Email: types/email.md
+    - IP: types/ip.md
+    - Macaddress: types/bssid.md
+    - Officers: types/officers.md
+    - Phone: types/phone.md
+    - URL: types/url.md
+    - Username: types/username.md
+    - VehicleReg: types/vehiclereg.md
+    - Vinted: types/vinted.md
+    - Vision: types/vision.md

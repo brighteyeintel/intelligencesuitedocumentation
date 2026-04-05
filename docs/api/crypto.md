@@ -34,6 +34,9 @@ Consumes user wallet credits according to valid items pushed into the `querylist
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Crypto Response Types](../types/crypto.md) documentation and [Shared Types](../types/shared.md).
+
+
 Success triggers standard HTTP `200` statuses. Wraps an encapsulated instance of TrinityResult binding CryptoSearchResults metadata.
 
 ```json

@@ -34,6 +34,9 @@ Functions normally resolve deductions aligned to `querylist` values against the 
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Username Response Types](../types/username.md) documentation and [Shared Types](../types/shared.md).
+
+
 Success resolves correctly with HTTP Status `200` outputting the `UsernameSearchResults` object enclosed implicitly within native `TrinityResult` metadata representations.
 
 ```json

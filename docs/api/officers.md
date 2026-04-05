@@ -34,6 +34,9 @@ Credits are automatically deduced at a standard computational rate matching the 
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Officers Response Types](../types/officers.md) documentation and [Shared Types](../types/shared.md).
+
+
 Upon evaluation, issues an HTTP `200` mapping TrinityResult metadata and its internal OfficerSearchResults payload formats securely.
 
 ```json

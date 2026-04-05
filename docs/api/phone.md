@@ -34,6 +34,9 @@ Operations inherently execute strict credit boundaries parsing lengths relative 
 
 ## Response Structure
 
+For a complete mapping of specialized response objects, refer to the [Phone Response Types](../types/phone.md) documentation and [Shared Types](../types/shared.md).
+
+
 Replies conform to HTTP standard `200` outputs binding TrinityResult generic interfaces paired dynamically to array bounds of PhoneSearchResults.
 
 ```json
